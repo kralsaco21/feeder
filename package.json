@@ -1,0 +1,26 @@
+{
+  "name": "commit-feeder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inspector44/commit-feeder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inspector44/commit-feeder/issues"
+  },
+  "homepage": "https://github.com/inspector44/commit-feeder#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "path": "^0.12.7",
+    "simple-git": "^3.22.0"
+  }
+}
